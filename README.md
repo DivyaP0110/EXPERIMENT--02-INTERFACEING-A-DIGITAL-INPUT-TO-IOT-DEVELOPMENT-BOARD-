@@ -2,7 +2,7 @@
 
 ###  NAME: DIVYA P
 ###  ROLL NO : 212223040044
-###  DEPARTMENT: CSE
+###  DEPARTMENT: Computer Science Engineering
 
 
 # EXPERIMENT--02-INTERFACING-A-DIGITAL-INPUT-TO-IOT-DEVELOPMENT-BOARD-
@@ -77,6 +77,14 @@ The full form of an ARM is an advanced reduced instruction set computer (RISC) m
 
 
 ## STM 32 CUBE PROGRAM :
+
+```
+#include "main.h"
+#include"stdio.h"
+#include "stdbool.h"
+bool IRstatus;
+
+```
 
 ```
 
